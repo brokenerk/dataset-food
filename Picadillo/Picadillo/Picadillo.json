@@ -1,0 +1,58 @@
+{
+    "Picadillo" : [
+        {
+            "Ingrediente" : "Carne de res molida",
+            "Cantidad" : "125",
+            "kiloCalorias" : 225
+        },
+        {
+            "Ingrediente" : "Cebolla blanca rebanada",
+            "Cantidad" : "1/2",
+            "kiloCalorias" : 23
+        },
+        {
+            "Ingrediente" : "Chícharo cocido sin vaina",
+            "Cantidad" : "1/5",
+            "kiloCalorias" : 27
+        },
+        {
+            "Ingrediente" : "Zanahoria picada cruda",
+            "Cantidad" : "1/4",
+            "kiloCalorias" : 13
+        },
+        {
+            "Ingrediente" : "Papa picada",
+            "Cantidad" : "1/2",
+            "kiloCalorias" : 48
+        },
+        {
+            "Ingrediente" : "Jitomate guaje o saladet",
+            "Cantidad" : "1/2",
+            "kiloCalorias" : 5.5
+        },
+        {
+            "Ingrediente" : "Aceite comestible",
+            "Cantidad" : "5",
+            "kiloCalorias" : 220
+        },
+        {
+            "Ingrediente" : "Sal",
+            "Cantidad" : "4/6",
+            "kiloCalorias" : 0
+        },
+        {
+            "Ingrediente" : "Ajo en polvo",
+            "Cantidad" : "1/6",
+            "kiloCalorias" : 1.666
+        },
+        {
+            "Ingrediente" : "Hierbas de olor",
+            "Cantidad" : "1",
+            "kiloCalorias" : 5
+        },
+
+	{
+	     "Procedencia" : "México"
+	}
+    ]
+}

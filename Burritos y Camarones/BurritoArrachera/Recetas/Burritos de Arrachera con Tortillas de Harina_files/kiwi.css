@@ -1,0 +1,48 @@
+.video-js .vjs-big-play-button {
+  background-color: transparent;
+  border: 3px solid #fff;
+  border-radius: 100%;
+  cursor: pointer;
+  display: block;
+  font-size: 3em;
+  height: 70px;
+  left: 50%;
+  line-height: 1.5em;
+  opacity: 0.8;
+  padding: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  width: 70px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  transition: all 0.4s;
+}
+
+
+.video-js:hover .vjs-big-play-button, .video-js .vjs-big-play-button:focus {
+  outline: 0;
+  opacity: 1;
+  border-color: #fff;
+  background-color: transparent;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  transition: all 0.4s;
+}
+
+.video-js .vjs-big-play-button .vjs-icon-placeholder:before{
+  font-size: 44px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-36%);
+}
+
+.vjs-controls-disabled .vjs-big-play-button, .vjs-error .vjs-big-play-button, .vjs-has-started .vjs-big-play-button, .vjs-using-native-controls .vjs-big-play-button{
+  display: none;
+}
