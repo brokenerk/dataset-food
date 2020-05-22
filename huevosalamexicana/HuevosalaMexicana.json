@@ -29,7 +29,9 @@
       "Ingrediente": "Sal",
       "Cantidad": "1/2",
       "Calorias": 0
+    },
+    {
+      "Procedencia": "México"
     }
-  ],
-  "Procedencia": "México"
+  ]
 }

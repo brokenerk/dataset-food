@@ -19,7 +19,7 @@
 			"Ingrediente" : "Aguacate",
 			"Cantidad" : "2",
 			"Calorias" : 480
-		}
+		},
 		{
 			"Ingrediente" : "Limon",
 			"Cantidad" : "1/2",
@@ -27,7 +27,7 @@
 		},
 		{
 			"Ingrediente" : "Cilantro",
-			"Cantidad" : "3 cucharadas",
+			"Cantidad" : "3",
 			"Calorias" : 6
 		}
 	]

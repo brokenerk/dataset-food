@@ -60,9 +60,8 @@
             "Cantidad" : "1/6",
             "kiloCalorias" : 1.666
         },
-
-	{
-	     "Procedencia" : "México"
-	}
+    	{
+    	   "Procedencia" : "México"
+    	}
     ]
 }
