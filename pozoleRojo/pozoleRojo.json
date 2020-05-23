@@ -1,7 +1,7 @@
 {
-	"pozoleRojo" : [
+	"PozoleRojo" : [
 		{
-			"Ingrediente" : "Maíz pozolero",
+			"Ingrediente" : "Maiz pozolero",
 			"Cantidad" : "3",
 			"Calorias" : 174
 		},
@@ -16,7 +16,7 @@
 			"Calorias" : 75
 		},
 		{
-			"Ingrediente" : "Chile de árbol seco",
+			"Ingrediente" : "Chile de arbol seco",
 			"Cantidad" : "3/4",
 			"Calorias" : 15.75
 		},
@@ -36,7 +36,7 @@
 			"Calorias" : 5
 		},
 		{
-			"Ingrediente" : "Rábano crudo rebanado",
+			"Ingrediente" : "Rabano crudo rebanado",
 			"Cantidad" : "7/5",
 			"Calorias" : 29.4
 		},
@@ -46,7 +46,7 @@
 			"Calorias" : 48.8
 		},
 		{
-			"Ingrediente" : "Orégano",
+			"Ingrediente" : "Oregano",
 			"Cantidad" : "1",
 			"Calorias" : 6
 		},
@@ -60,6 +60,6 @@
 			"Cantidad" : "83/5",
 			"Calorias" : 33.2
 		}
-		
-	]
+	],
+  	"Procedencia": "Mexico"
 }

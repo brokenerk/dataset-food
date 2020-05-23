@@ -1,67 +1,65 @@
 {
     "TacosDorados" : [
         {
-            "Ingrediente" : "Tortilla de maíz",
+            "Ingrediente" : "Tortilla de maiz",
             "Cantidad" : "4",
-            "kiloCalorias" : 256
+            "Calorias" : 256
         },
         {
             "Ingrediente" : "Pechuga de pollo cocida",
             "Cantidad" : "125",
-            "kiloCalorias" : 200
+            "Calorias" : 200
         },
         {
             "Ingrediente" : "Queso panela",
             "Cantidad" : "30",
-            "kiloCalorias" : 43.5
+            "Calorias" : 43.5
         },
         {
-            "Ingrediente" : "Crema ácida",
+            "Ingrediente" : "Crema acida",
             "Cantidad" : "3",
-            "kiloCalorias" : 69
+            "Calorias" : 69
         },
         {
             "Ingrediente" : "Cebolla blanca rebanada",
             "Cantidad" : "1/2",
-            "kiloCalorias" : 23
+            "Calorias" : 23
         },
         {
             "Ingrediente" : "Tomate verde",
             "Cantidad" : "2",
-            "kiloCalorias" : 8.4
+            "Calorias" : 8.4
         },
         {
             "Ingrediente" : "Lechuga",
             "Cantidad" : "1",
-            "kiloCalorias" : 7.66
+            "Calorias" : 7.66
         },
         {
-            "Ingrediente" : "Chile jalapeño",
+            "Ingrediente" : "Chile jalapenio",
             "Cantidad" : "1",
-            "kiloCalorias" : 16.33
+            "Calorias" : 16.33
         },
         {
             "Ingrediente" : "Aceite comestible",
             "Cantidad" : "5",
-            "kiloCalorias" : 220
+            "Calorias" : 220
         },
         {
             "Ingrediente" : "Tomate verde",
             "Cantidad" : "2",
-            "kiloCalorias" : 8.4
+            "Calorias" : 8.4
         },
         {
             "Ingrediente" : "Sal",
             "Cantidad" : "4/6",
-            "kiloCalorias" : 0
+            "Calorias" : 0
         },
         {
             "Ingrediente" : "Ajo en polvo",
             "Cantidad" : "1/6",
-            "kiloCalorias" : 1.666
-        },
-    	{
-    	   "Procedencia" : "México"
-    	}
-    ]
+            "Calorias" : 1.666
+        }
+    ],
+    "Procedencia" : "Mexico"
 }

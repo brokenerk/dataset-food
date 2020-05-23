@@ -39,9 +39,7 @@
 			"Ingrediente" : "Laurel",
 			"Cantidad" : "1",
 			"Calorias" : 6
-		},
-		{
-			"Procedencia":"Puebla"
 		}
-	]
+	],
+	"Procedencia":"Puebla"
 }

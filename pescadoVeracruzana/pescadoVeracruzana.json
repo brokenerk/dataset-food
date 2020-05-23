@@ -1,8 +1,5 @@
 {
-	"Tlayudas" : [
-        {
-            "Procedencia":"México-Veracruz"
-        },        
+	"PescadoVeracruzano" : [       
 		{
 			"Ingrediente" : "Filete de pescado",
 			"Cantidad" : "2",
@@ -73,5 +70,6 @@
 			"Cantidad" : "1",
 			"Calorias" : 19
 		}
-	]
+	],
+	"Procedencia":"Mexico-Veracruz"
 }

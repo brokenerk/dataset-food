@@ -1,5 +1,5 @@
 {
-    "Chiles en Nogada" :[
+    "ChilesEnNogada" :[
         {
             "Ingrediente": "Chile Poblano",
             "Cantidad": "8",
@@ -81,7 +81,7 @@
             "Calorias": 4
         },
         {
-            "Ingrediente": "Piñon",
+            "Ingrediente": "Pinion",
             "Cantidad": "8",
             "Calorias": 64
         },
@@ -94,9 +94,7 @@
             "Ingrediente": "Aceite de olivo",
             "Cantidad": "8",
             "Calorias": 44
-        },
-        {
-            "Procedencia":"México-Puebla"
         }
-    ]
+    ],
+    "Procedencia":"Mexico-Puebla"
 }

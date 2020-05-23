@@ -2,30 +2,31 @@
 	"Tlacoyos" : [
 		{
 			"Ingrediente" : "Masa",
-			"Cantidad" : "50 gr",
+			"Cantidad" : "50",
 			"Calorias" : 183
 		},
 		{
 			"Ingrediente" : "Cebolla",
-			"Cantidad" : "1 cucharada",
+			"Cantidad" : "1",
 			"Calorias" : 2
 		},
 		{
 			"Ingrediente" : "Queso",
-			"Cantidad" : "1 cucharada",
+			"Cantidad" : "1",
 			"Calorias" : 15
 		},
 		{
 			"Ingrediente" : "Cilantro",
-			"Cantidad" : "1 cucharada",
+			"Cantidad" : "1",
 			"Calorias" : 2
 		},
 		{
 			"Ingrediente" : "Frijol",
-			"Cantidad" : "20 gramos",
+			"Cantidad" : "20",
 			"Calorias" : 18
 		}
-	]
+	],
+	"Procedencia":"Mexico"
 }
 
 

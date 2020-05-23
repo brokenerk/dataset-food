@@ -1,9 +1,6 @@
 {
 	"Pambazos" : [
 		{
-			"Procedencia" : "México-CDMX"
-		},
-		{
 			"Ingrediente" : "Chile guajillo",
 			"Cantidad" : "2",
 			"Calorias" : 8.5
@@ -53,5 +50,6 @@
 			"Cantidad" : "",
 			"Calorias" : 14.6
 		}
-	]
+	],
+	"Procedencia" : "Mexico-CDMX"
 }

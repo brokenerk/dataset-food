@@ -1,67 +1,65 @@
 {
-    "chilaquilesverdes" : [
+    "ChilaquilesVerdes" : [
         {
             "Ingrediente" : "Tomate verde",
             "Cantidad" : "5",
-            "kiloCalorias" : 21
+            "Calorias" : 21
         },
         {
             "Ingrediente" : "Chile seco",
             "Cantidad" : "4",
-            "kiloCalorias" : 9.2
+            "Calorias" : 9.2
         },
-	{
+	    {
             "Ingrediente" : "Agua",
             "Cantidad" : "1",
-            "kiloCalorias" : 2
+            "Calorias" : 2
         },
         {
             "Ingrediente" : "Cebolla blanca rebanada",
             "Cantidad" : "1/2",
-            "kiloCalorias" : 23
+            "Calorias" : 23
         },
         {
-            "Ingrediente" : "Tortilla de maíz",
+            "Ingrediente" : "Tortilla de maiz",
             "Cantidad" : "4",
-            "kiloCalorias" : 256
+            "Calorias" : 256
         },
         {
             "Ingrediente" : "Queso panela",
             "Cantidad" : "20",
-            "kiloCalorias" : 29
+            "Calorias" : 29
         },
         {
-            "Ingrediente" : "Crema ácida",
+            "Ingrediente" : "Crema acida",
             "Cantidad" : "3",
-            "kiloCalorias" : 69
+            "Calorias" : 69
         },
         {
             "Ingrediente" : "Ajo en polvo",
             "Cantidad" : "1/6",
-            "kiloCalorias" : 1.666
+            "Calorias" : 1.666
         },
         {
             "Ingrediente" : "Aceite comestible",
             "Cantidad" : "10",
-            "kiloCalorias" : 490
+            "Calorias" : 490
         },
         {
             "Ingrediente" : "Pollo crudo en piezas",
             "Cantidad" : "150",
-            "kiloCalorias" : 182.5
+            "Calorias" : 182.5
         },
         {
             "Ingrediente" : "Sal",
             "Cantidad" : "4/6",
-            "kiloCalorias" : 0
+            "Calorias" : 0
         },
         {
             "Ingrediente" : "Caldo de pollo",
             "Cantidad" : "1/4",
-            "kiloCalorias" : 4.5
-        },
-	{
-	     "Procedencia" : "México"
-	}
-    ]
+            "Calorias" : 4.5
+        }
+    ],
+    "Procedencia" : "Mexico"
 }

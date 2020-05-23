@@ -1,5 +1,5 @@
 {
-    "Mole Poblano" :[
+    "MolePoblano" :[
         {
             "Ingrediente": "Manteca de Cerdo",
             "Cantidad": "72",
@@ -131,7 +131,7 @@
             "Calorias": 8
         },
         {
-            "Ingrediente": "Chocolate con azu/15car",
+            "Ingrediente": "Chocolate con azucar",
             "Cantidad": "270",
             "Calorias": 52
         },
@@ -139,9 +139,7 @@
             "Ingrediente": "Pieza de pollo",
             "Cantidad": "24",
             "Calorias": 204
-        },
-        {
-            "Procedencia":"México-Puebla"
         }
-    ]
+    ],
+    "Procedencia":"Mexico-Puebla"
 }

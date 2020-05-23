@@ -1,8 +1,5 @@
 {
-	"Tlayudas" : [
-        {
-            "Procedencia":"México-Querétaro"
-        },        
+	"Tlayudas" : [       
 		{
 			"Ingrediente" : "Longaniza",
 			"Cantidad" : "50",
@@ -53,5 +50,6 @@
 			"Cantidad" : "1/2",
 			"Calorias" : 6
 		}
-	]
+	],
+	"Procedencia":"Mexico-Queretaro"
 }

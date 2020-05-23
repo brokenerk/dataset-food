@@ -39,9 +39,7 @@
 			"Ingrediente" : "Ajo en polvo",
 			"Cantidad" : "1/2",
 			"Calorias" : 5
-		},
-		{
-			"Procedencia" : "México"
 		}
-	]
+	],
+	"Procedencia" : "Mexico"
 }

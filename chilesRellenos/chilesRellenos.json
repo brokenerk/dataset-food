@@ -1,62 +1,60 @@
 {
-    "chilesRellenos":[
+    "ChilesRellenos":[
         {
             "Ingrediente" : "Chile poblano",
             "Cantidad" : "1",
-            "kiloCalorias" : 30
+            "Calorias" : 30
         },
         {
             "Ingrediente" : "Queso Oaxaca",
             "Cantidad" : "50",
-            "kiloCalorias" : 158.333
+            "Calorias" : 158.333
         },
         {
             "Ingrediente" : "Huevo fresco",
             "Cantidad" : "3/5",
-            "kiloCalorias" : 37.8
+            "Calorias" : 37.8
         },
         {
             "Ingrediente" : "Harina de maiz",
             "Cantidad" : "3/5",
-            "kiloCalorias" : 15.6
+            "Calorias" : 15.6
         },
         {
             "Ingrediente" : "Jitomate guaje o saladet",
             "Cantidad" : "4/5",
-            "kiloCalorias" : 8.8
+            "Calorias" : 8.8
         },
         {
             "Ingrediente" : "Ajo en polvo",
             "Cantidad" : "1/15",
-            "kiloCalorias" : 0.666
+            "Calorias" : 0.666
         },
         {
             "Ingrediente" : "Cebolla blanca rebanada",
             "Cantidad" : "1/20",
-            "kiloCalorias" : 2.3
+            "Calorias" : 2.3
         },
         {
-            "Ingrediente" : "Cubo de consomé",
+            "Ingrediente" : "Cubo de consome",
             "Cantidad" : "1/10",
-            "kiloCalorias" : 4.8 
+            "Calorias" : 4.8 
         },
         {
             "Ingrediente" : "Sal",
             "Cantidad" : "1/10",
-            "kiloCalorias" : 0
+            "Calorias" : 0
         },
         {
             "Ingrediente" : "Aceite comestible",
             "Cantidad" : "10",
-            "kiloCalorias" : 440
+            "Calorias" : 440
         },
         {
             "Ingrediente" : "Agua",
             "Cantidad" : "1/10",
-            "kiloCalorias" : 0.2
-        },
-        {
-            "Procedencia" : "México-Puebla"
+            "Calorias" : 0.2
         }
-    ]
+    ],
+    "Procedencia" : "Mexico-Puebla"
 }

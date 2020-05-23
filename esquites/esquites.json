@@ -1,64 +1,65 @@
 {
-    "esquites" : [
+    "Esquites" : [
         {
             "Ingrediente" : "Elote blanco desgranado",
             "Cantidad" : "1",
-            "kiloCalorias" : 132
+            "Calorias" : 132
         },
         {
             "Ingrediente" : "Cebolla blanca rebanada",
             "Cantidad" : "1/2",
-            "kiloCalorias" : 23
+            "Calorias" : 23
         },
         {
             "Ingrediente" : "Margarina",
             "Cantidad" : "3",
-            "kiloCalorias" : 117
+            "Calorias" : 117
         },
         {
             "Ingrediente" : "Epazote",
             "Cantidad" : "100",
-            "kiloCalorias" : 32
+            "Calorias" : 32
         },
         {
             "Ingrediente" : "Queso cotija",
             "Cantidad" : "15",
-            "kiloCalorias" : 43.5
+            "Calorias" : 43.5
         },
         {
             "Ingrediente" : "Pimienta negra entera",
             "Cantidad" : "1/12",
-            "kiloCalorias" : 0.75
+            "Calorias" : 0.75
         },
         {
             "Ingrediente" : "Mayonesa",
             "Cantidad" : "2",
-            "kiloCalorias" : 68
+            "Calorias" : 68
         },
         {
             "Ingrediente" : "Ajo en polvo",
             "Cantidad" : "1/6",
-            "kiloCalorias" : 1.666
+            "Calorias" : 1.666
         },
         {
             "Ingrediente" : "Chile piquin molido",
             "Cantidad" : "1/4",
-            "kiloCalorias" : 2.5
+            "Calorias" : 2.5
         },
         {
             "Ingrediente" : "Agua",
             "Cantidad" : "1",
-            "kiloCalorias" : 2
+            "Calorias" : 2
         },
         {
             "Ingrediente" : "Sal",
             "Cantidad" : "4/6",
-            "kiloCalorias" : 0
+            "Calorias" : 0
         },
         {
             "Ingrediente" : "Caldo de pollo",
             "Cantidad" : "1/4",
-            "kiloCalorias" : 4.5
+            "Calorias" : 4.5
         }
-    ]
+    ],
+    "Procedencia" : "Mexico"
 }

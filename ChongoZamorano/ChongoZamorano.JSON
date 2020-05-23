@@ -1,22 +1,20 @@
 {
 	"ChongoZamorano" : [
 		{
-			"Ingredientes" : "Leche",
+			"Ingrediente" : "Leche",
 			"Cantidad" : "8",
-			"Calorias": "1184"
+			"Calorias": 1184
 		},
 		{
-			"Ingredientes" : "Pastilla de cuajo",
+			"Ingrediente" : "Pastilla de cuajo",
 			"Cantidad" : "1",
-			"Calorias": "0"
+			"Calorias": 0
 		},
 		{
-			"Ingredientes" : "Azucar de mesa",
+			"Ingrediente" : "Azucar de mesa",
 			"Cantidad" : "13",
-			"Calorias": "429"
-		},
-		{
-			"Procedencia" : "Michoacan"
+			"Calorias": 429
 		}
-	]
+	],
+	"Procedencia" : "Michoacan"
 }

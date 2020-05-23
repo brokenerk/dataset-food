@@ -51,7 +51,7 @@
 			"Calorias" : 6
 		},
 		{
-			"Ingrediente" : "Orégano",
+			"Ingrediente" : "Oregano",
 			"Cantidad" : "1/8",
 			"Calorias" : 6
 		},
@@ -89,9 +89,7 @@
 			"Ingrediente" : "Cilantro picado crudo",
 			"Cantidad" : "1/16",
 			"Calorias" : 24
-		},
-		{
-			"Procedencia" : "México-Jalisco"
 		}
-	]
+	],
+	"Procedencia" : "Mexico-Jalisco"
 }

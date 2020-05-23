@@ -1,10 +1,7 @@
 {
-	"TampiqueñaRes" : [
+	"TampiqueniaRes" : [
 		{
-			"Procedencia":"México-Tamaulipas"
-		},
-		{
-			"Ingrediente" : "Filete Tampiqueña",
+			"Ingrediente" : "Filete Tampiquenia",
 			"Cantidad" : "1",
 			"Calorias" : 144
 		},
@@ -58,5 +55,6 @@
 			"Cantidad" : "1/8",
 			"Calorias" : 121
 		}	
-	]
+	],
+	"Procedencia":"Mexico-Tamaulipas"
 }

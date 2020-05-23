@@ -1,5 +1,5 @@
 {
-	"TingaDePollo" : [
+	"CochinitaPibil" : [
 		{
 			"Ingrediente" : "Achiote",
 			"Cantidad" : "62",
@@ -16,7 +16,7 @@
 			"Calorias" : 31
         },
         {
-			"Ingrediente" : "Limón real",
+			"Ingrediente" : "Limon real",
 			"Cantidad" : "5/2",
 			"Calorias" : 31
         },
@@ -44,9 +44,7 @@
 			"Ingrediente" : "Ajo en polvo",
 			"Cantidad" : "1",
 			"Calorias" : 2
-		},
-		{
-			"Procedencia":"Yucatán"
 		}
-	]
+	],
+	"Procedencia":"Yucatan"
 }

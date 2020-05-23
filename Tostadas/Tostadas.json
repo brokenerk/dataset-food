@@ -1,9 +1,6 @@
 {
 	"TostadasPreparadas" : [
 		{
-			"Procedencia" : "México-Puebla"
-		},
-		{
 			"Ingrediente" : "Falda de res",
 			"Cantidad" : "150",
 			"Calorias" : 249
@@ -58,5 +55,6 @@
 			"Cantidad" : "1/8",
 			"Calorias" : 88
 		}
-	]
+	],
+	"Procedencia" : "Mexico-Puebla"
 }

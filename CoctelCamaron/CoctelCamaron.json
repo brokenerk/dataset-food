@@ -1,9 +1,7 @@
 {
-    "CoctelCamaron": [{
-            "procedencia": "México"
-        },
+    "CoctelCamaron": [
         {
-            "Ingrediente": "Camarón pacotilla",
+            "Ingrediente": "Camaron pacotilla",
             "Cantidad": "150",
             "Calorias": 159
         },
@@ -27,5 +25,6 @@
             "Cantidad": "12",
             "Calorias": 174
         }
-    ]
+    ],
+    "Procedencia": "Mexico"
 }

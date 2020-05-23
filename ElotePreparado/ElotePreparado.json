@@ -1,9 +1,7 @@
 {
-    "ElotePreparado": [{
-            "procedencia": "México"
-        },
+    "ElotePreparado": [
         {
-            "Ingrediente": "Chile piquín molido",
+            "Ingrediente": "Chile piquin molido",
             "Cantidad": "3",
             "Calorias": 30
         },
@@ -22,5 +20,6 @@
             "Cantidad": "1",
             "Calorias": 48
         }
-    ]
+    ],
+    "Procedencia": "Mexico"
 }

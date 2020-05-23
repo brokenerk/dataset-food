@@ -1,7 +1,7 @@
 {
 	"Guacamole" : [
 		{
-			"Ingrediente" : "Chile jalapeño",
+			"Ingrediente" : "Chile jalapenio",
 			"Cantidad" : "5/6",
 			"Calorias" : 23
 		},
@@ -30,5 +30,6 @@
 			"Cantidad" : "3",
 			"Calorias" : 6
 		}
-	]
+	],
+	"Procedencia" : "Mexico"
 }

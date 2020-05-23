@@ -1,9 +1,6 @@
 {
 	"MojarraMojoAjo" : [
 		{
-			"Procedencia":"México-Sinaloa"
-		},
-		{
 			"Ingrediente" : "Mojarra Tilapia",
 			"Cantidad" : "1",
 			"Calorias" : 440
@@ -53,5 +50,6 @@
 			"Cantidad" : "1/2",
 			"Calorias" : 120
 		}
-	]
+	],
+	"Procedencia":"Mexico-Sinaloa"
 }

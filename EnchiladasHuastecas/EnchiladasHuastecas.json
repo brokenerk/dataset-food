@@ -1,5 +1,5 @@
 {
-   "chicharronPreparado" : [
+   "EnchiladasHuastecas" : [
       {
          "Ingrediente" : "Chiles serranos",
          "Cantidad" : "10",
@@ -39,9 +39,7 @@
          "Ingrediente" : "Tortillas",
          "Cantidad" : "5",
          "Calorias" : 32
-      },
-      {
-         "Procedencia" : "Huasteca-Hidalguense"
       }
-   ]
+   ],
+   "Procedencia" : "Huasteca-Hidalgo"
 }

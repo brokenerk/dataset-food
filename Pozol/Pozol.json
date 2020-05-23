@@ -1,17 +1,15 @@
 {
-    "pozol": [
+    "Pozol": [
         {
             "Ingrediente": "Nixtamal",
-            "Cantidad": "1 Kilogramo",
+            "Cantidad": "1",
             "Calorias": 1533.33
         },
         {
             "Ingrediente": "Agua",
-            "Cantidad": "1 Litro",
+            "Cantidad": "1",
             "Calorias": 1533.33
-        },
-        {
-            "Procedencia": "Mexico-Chiapas"
         }
-    ]
+    ],
+    "Procedencia": "Mexico-Chiapas"
 }

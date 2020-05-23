@@ -1,67 +1,65 @@
 {
-    "ajoComino" : [
+    "AjoComino" : [
         {
             "Ingrediente" : "Frijol promedio crudo",
             "Cantidad" : "100",
-            "kiloCalorias" : 340
+            "Calorias" : 340
         },
         {
             "Ingrediente" : "Chile seco",
             "Cantidad" : "2.5",
-            "kiloCalorias" : 5.75
+            "Calorias" : 5.75
         },
         {
-            "Ingrediente" : "Chile de árbol seco",
+            "Ingrediente" : "Chile de arbol seco",
             "Cantidad" : "2/3",
-            "kiloCalorias" : 3.5
+            "Calorias" : 3.5
         },
         {
             "Ingrediente" : "Jitomate guaje o saladet",
             "Cantidad" : "1/3",
-            "kiloCalorias" : 3.666
+            "Calorias" : 3.666
         },
         {
             "Ingrediente" : "Clavo",
             "Cantidad" : "1/8",
-            "kiloCalorias" : 0.75
+            "Calorias" : 0.75
         },
         {
             "Ingrediente" : "Pimienta negra entera",
             "Cantidad" : "1/12",
-            "kiloCalorias" : 0.75
+            "Calorias" : 0.75
         },
         {
             "Ingrediente" : "Comino entero",
             "Cantidad" : "1/6",
-            "kiloCalorias" : 1.166
+            "Calorias" : 1.166
         },
         {
             "Ingrediente" : "Ajo en polvo",
             "Cantidad" : "1/6",
-            "kiloCalorias" : 1.666
+            "Calorias" : 1.666
         },
         {
             "Ingrediente" : "Aceite comestible",
             "Cantidad" : "5/6",
-            "kiloCalorias" : 36.666
+            "Calorias" : 36.666
         },
         {
             "Ingrediente" : "Pollo crudo en piezas",
             "Cantidad" : "150",
-            "kiloCalorias" : 182.5
+            "Calorias" : 182.5
         },
         {
             "Ingrediente" : "Sal",
             "Cantidad" : "4/6",
-            "kiloCalorias" : 0
+            "Calorias" : 0
         },
         {
             "Ingrediente" : "Caldo de pollo",
             "Cantidad" : "1/4",
-            "kiloCalorias" : 4.5
-        },
-        {
-            "Procedencia" : "México-Hidalgo"
+            "Calorias" : 4.5
         }
-    ]
+    ],
+    "Procedencia" : "Mexico-Hidalgo"  
 }

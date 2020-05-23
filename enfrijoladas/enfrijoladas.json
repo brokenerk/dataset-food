@@ -1,5 +1,5 @@
 {
-	"enfrijoladas" : [
+	"Enfrijoladas" : [
 		{
 			"Ingrediente" : "Longaniza de primera",
 			"Cantidad" : "14/5",
@@ -35,5 +35,6 @@
 			"Cantidad" : "1",
 			"Calorias" : 0
 		}
-	]
+	],
+	"Procedencia" : "Mexico"
 }

@@ -26,7 +26,7 @@
 			"Calorias" : 9
 		},
 		{
-			"Ingrediente" : "Consomé de camarón en polvo",
+			"Ingrediente" : "Consome de camaron en polvo",
 			"Cantidad" : "5/2",
 			"Calorias" : 8
 		},
@@ -39,9 +39,7 @@
 			"Ingrediente" : "Huevo entero fresco",
 			"Cantidad" : "1",
 			"Calorias" : 63
-		},
-		{
-			"Procedencia" : "México"
 		}
-	]
+	],
+	"Procedencia" : "Mexico"
 } 	

@@ -10,11 +10,10 @@
 			"Cantidad" : "1/4",
 			"Calorias" : 11.5
 		},
-
 		{
 			"Ingrediente" : "Chile Serrano",
 			"Cantidad" : "1 1/2",
-			"Calorias" : "40.8"
+			"Calorias" : 40.8
 		},
 		{
 			"Ingrediente" : "Tortilla",
@@ -50,9 +49,7 @@
 			"Ingrediente" : "Sal",
 			"Cantidad" : "1",
 			"Calorias" : 0
-		},
-		{
-			"Procedencia" : "México"
 		}
-	]
+	],
+	"Procedencia" : "Mexico"
 }

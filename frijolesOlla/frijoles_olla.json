@@ -1,5 +1,5 @@
 {
-	"Frijoles de olla" : [
+	"FrijolesDeOlla" : [
 		{
 			"Ingrediente" : "Frijol promedio crudo",
 			"Cantidad" : "17",
@@ -19,9 +19,7 @@
 			"Ingrediente" : "Ajo en polvo",
 			"Cantidad" : "1",
 			"Calorias" : 5
-		},
-		{
-			"Procedencia" : "México"
 		}
-	]
+	],
+	"Procedencia" : "Mexico"
 } 	

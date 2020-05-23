@@ -16,7 +16,7 @@
 			"Calorias": 19
 		},
 		{
-			"Ingrediente": "Chile Jalapeño",
+			"Ingrediente": "Chile Jalapenio",
 			"Cantidad": "2/6",
 			"Calorias": 23
 		},
@@ -29,9 +29,7 @@
 			"Ingrediente": "Sal",
 			"Cantidad": "1/2",
 			"Calorias": 0
-		},
-		{
-			"Procedencia": "México"
 		}
-	]
+	],
+	"Procedencia": "Mexico"
 }

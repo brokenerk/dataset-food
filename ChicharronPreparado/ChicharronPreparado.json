@@ -1,5 +1,5 @@
 {
-	"chicharronPreparado" : [
+	"ChicharronPreparado" : [
 		{
 			"Ingrediente" : "Chicharron",
 			"Cantidad" : "1",
@@ -34,9 +34,7 @@
 			"Ingrediente" : "Salsa Valentina",
 			"Cantidad" : "5",
 			"Calorias" : 1
-		},
-		{
-			"Procedencia" : "Mexico"
 		}
-	]
+	],
+	"Procedencia" : "Mexico"
 }

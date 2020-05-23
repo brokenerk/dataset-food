@@ -1,9 +1,6 @@
 {
 	"BurritoArrachera" : [
 		{
-			"Origen" : "Chihuahua"
-		},
-		{
 			"Ingrediente" : "Harina de trigo",
 			"Cantidad" : "4",
 			"Calorias" : 1818
@@ -69,7 +66,7 @@
 			"Calorias" : 4
 		},
 		{
-			"Ingrediente" : "Orégano molido",
+			"Ingrediente" : "Oregano molido",
 			"Cantidad" : "6",
 			"Calorias" : 30
 		},
@@ -79,7 +76,7 @@
 			"Calorias" : 21
 		},
 		{
-			"Ingrediente" : "Limón",
+			"Ingrediente" : "Limon",
 			"Cantidad" : "1/4",
 			"Calorias" : 8
 		},
@@ -93,5 +90,6 @@
 			"Cantidad" : "3",
 			"Calorias" : 162
 		}
-	]
+	],
+	"Procedencia" : "Chihuahua"
 }

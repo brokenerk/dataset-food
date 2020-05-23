@@ -1,7 +1,7 @@
 {
 	"GorditaChicharron" : [
 		{
-			"Ingrediente" : "Masa de maíz",
+			"Ingrediente" : "Masa de maiz",
 			"Cantidad" : "50/9",
 			"Calorias" : 69
 		},
@@ -31,7 +31,7 @@
 			"Calorias" : 44
 		},
 		{
-			"Ingrediente" : "Chicharrón de cerdo",
+			"Ingrediente" : "Chicharron de cerdo",
 			"Cantidad" : "25/4",
 			"Calorias" : 72
 		},
@@ -59,9 +59,7 @@
 			"Ingrediente" : "Salsa de chile",
 			"Cantidad" : "1/46",
 			"Calorias" : 28
-		},
-		{
-			"Procedencia" : "México-Ciudad de México"
 		}
-	]
+	],
+	"Procedencia" : "Mexico-CDMX"
 }

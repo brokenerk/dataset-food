@@ -1,9 +1,6 @@
 {
 	"CamaronesEmpanizadosAlCoco" : [
 		{
-			"Origen" : "Campeche"
-		},
-		{
 			"Ingrediente" : "Manzana verde",
 			"Cantidad" : "6",
 			"Calorias" : 252
@@ -14,7 +11,7 @@
 			"Calorias" : 504
 		},
 		{
-			"Ingrediente" : "Azúcar morena",
+			"Ingrediente" : "Azucar morena",
 			"Cantidad" : "24",
 			"Calorias" : 816
 		},
@@ -29,7 +26,7 @@
 			"Calorias" : 25
 		},
 		{
-			"Ingrediente" : "Limón",
+			"Ingrediente" : "Limon",
 			"Cantidad" : "4",
 			"Calorias" : 40
 		},
@@ -39,7 +36,7 @@
 			"Calorias" : 60
 		},
 		{
-			"Ingrediente" : "Consomé de pollo en polvo",
+			"Ingrediente" : "Consome de pollo en polvo",
 			"Cantidad" : "3/2",
 			"Calorias" : 12
 		},
@@ -59,7 +56,7 @@
 			"Calorias" : 188
 		},
 		{
-			"Ingrediente" : "Cereal Corn Flakes NESTLÉ",
+			"Ingrediente" : "Cereal Corn Flakes NESTLE",
 			"Cantidad" : "2",
 			"Calorias" : 224
 		},
@@ -69,9 +66,10 @@
 			"Calorias" : 704
 		},
 		{
-			"Ingrediente" : "Aceite de Maíz",
+			"Ingrediente" : "Aceite de Maiz",
 			"Cantidad" : "10",
 			"Calorias" : 3168
 		}
-	]
+	],
+	"Procedencia" : "Campeche"
 }
